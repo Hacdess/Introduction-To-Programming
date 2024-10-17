@@ -6,10 +6,7 @@ using namespace std;
 
 static void roundingTo2DecimalPlace(double& x)
 {
-    if (x * 100 - int(x * 100) >= 0.5)
-        x = double(int(x * 100) + 1) / 100;
-    else
-        x = double(int(x * 100)) / 100;
+    x = double(int(x * 100 + 0.5)) / 100;
 }
 
 int main()

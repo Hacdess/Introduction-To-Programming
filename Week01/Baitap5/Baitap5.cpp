@@ -1,28 +1,22 @@
-// Baitap5.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Baitap5.cpp : Input a positive integer n and a real number x. Calculate and print (x^2 + 1) ^ n.
 
 #include <iostream>
-#include <string>
+#include <cmath>
 
 using namespace std;
 
-bool isPalindrome(int x) {
-    if (x < 0)
-        return 0;
-
-    int copy = x, palin = 0;
-    while (x != 0) {
-        palin = palin * 10 + (x % 10);
-        x /= 10;
-    }
-    cout << palin;
-    return x == palin;
-}
-
 int main()
 {
+    cout << "Ex 5\n";
+
     int n;
+    double x;
+
+    cout << "Input a positive integer n: ";
     cin >> n;
-    cout << isPalindrome(n);
+    cout << "Input a real number x: ";
+    cin >> x;
+
+    cout << '(' << x << "^2 + 1) ^ " << n << " = " << pow((pow(x, 2) + 1), n);
 }
 
