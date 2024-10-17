@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{eeada900-fc0b-4a76-9518-304c29130a42}</ProjectGuid>
+    <ProjectGuid>{06e49707-e357-49ff-8464-97f754c1d1d8}</ProjectGuid>
     <RootNamespace>Baitap4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

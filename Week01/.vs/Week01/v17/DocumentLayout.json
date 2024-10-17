@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\",
+  "WorkspaceRootPath": "D:\\Introduction-To-Programming\\Week01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap8\\Baitap8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Baitap8\\Baitap8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3448F906-D2B0-4D8E-902E-DCC4C65ABB11}|Baitap8\\Baitap8.vcxproj|D:\\Introduction-To-Programming\\Week01\\Baitap8\\Baitap8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3448F906-D2B0-4D8E-902E-DCC4C65ABB11}|Baitap8\\Baitap8.vcxproj|solutionrelative:Baitap8\\Baitap8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap6\\Baitap6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Baitap6\\Baitap6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{355D8CE4-D9D1-4742-A2BC-8FE34B380A43}|Baitap7\\Baitap7.vcxproj|D:\\Introduction-To-Programming\\Week01\\Baitap7\\Baitap7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{355D8CE4-D9D1-4742-A2BC-8FE34B380A43}|Baitap7\\Baitap7.vcxproj|solutionrelative:Baitap7\\Baitap7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEADA900-FC0B-4A76-9518-304C29130A42}|Baitap4\\Baitap4.vcxproj|D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap4\\Baitap4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EEADA900-FC0B-4A76-9518-304C29130A42}|Baitap4\\Baitap4.vcxproj|solutionrelative:Baitap4\\Baitap4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0B5C5A09-03BB-49FC-BBAC-628466AAAE3F}|Baitap6\\Baitap6.vcxproj|D:\\Introduction-To-Programming\\Week01\\Baitap6\\Baitap6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B5C5A09-03BB-49FC-BBAC-628466AAAE3F}|Baitap6\\Baitap6.vcxproj|solutionrelative:Baitap6\\Baitap6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap7\\Baitap7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Baitap7\\Baitap7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6D633CD-3130-496B-B212-4A816A544D34}|Baitap5\\Baitap5.vcxproj|D:\\Introduction-To-Programming\\Week01\\Baitap5\\Baitap5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6D633CD-3130-496B-B212-4A816A544D34}|Baitap5\\Baitap5.vcxproj|solutionrelative:Baitap5\\Baitap5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F41C0EDA-D1F3-4D39-9EE1-2A499E9EEF4B}|Baitap5\\Baitap5.vcxproj|D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap5\\Baitap5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F41C0EDA-D1F3-4D39-9EE1-2A499E9EEF4B}|Baitap5\\Baitap5.vcxproj|solutionrelative:Baitap5\\Baitap5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{06E49707-E357-49FF-8464-97F754C1D1D8}|Baitap4\\Baitap4.vcxproj|D:\\Introduction-To-Programming\\Week01\\Baitap4\\Baitap4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06E49707-E357-49FF-8464-97F754C1D1D8}|Baitap4\\Baitap4.vcxproj|solutionrelative:Baitap4\\Baitap4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3D94A4-6BDF-44C0-94AB-60678857E771}|Baitap3\\Baitap3.vcxproj|D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap3\\Baitap3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CC3D94A4-6BDF-44C0-94AB-60678857E771}|Baitap3\\Baitap3.vcxproj|solutionrelative:Baitap3\\Baitap3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{529478BD-D74C-4BDB-B284-24CB4E4AFA07}|Baitap3\\Baitap3.vcxproj|D:\\Introduction-To-Programming\\Week01\\Baitap3\\Baitap3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{529478BD-D74C-4BDB-B284-24CB4E4AFA07}|Baitap3\\Baitap3.vcxproj|solutionrelative:Baitap3\\Baitap3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC6E3119-44FC-4CC4-BBD5-E855F74585FB}|Baitap2\\Baitap2.vcxproj|D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap2\\Baitap2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC6E3119-44FC-4CC4-BBD5-E855F74585FB}|Baitap2\\Baitap2.vcxproj|solutionrelative:Baitap2\\Baitap2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D93336A6-1F95-4762-8147-2E7CEE5B5D2C}|Baitap2\\Baitap2.vcxproj|D:\\Introduction-To-Programming\\Week01\\Baitap2\\Baitap2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D93336A6-1F95-4762-8147-2E7CEE5B5D2C}|Baitap2\\Baitap2.vcxproj|solutionrelative:Baitap2\\Baitap2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82519F65-981D-460F-B404-DD7FFB6A0D03}|Baitap1\\Baitap1.vcxproj|D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap1\\Baitap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82519F65-981D-460F-B404-DD7FFB6A0D03}|Baitap1\\Baitap1.vcxproj|solutionrelative:Baitap1\\Baitap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1EC6B721-0C15-4ECF-90AD-FBEF7ACF342E}|Baitap1\\Baitap1.vcxproj|D:\\Introduction-To-Programming\\Week01\\Baitap1\\Baitap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EC6B721-0C15-4ECF-90AD-FBEF7ACF342E}|Baitap1\\Baitap1.vcxproj|solutionrelative:Baitap1\\Baitap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,106 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Baitap6.cpp",
-              "DocumentMoniker": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap6\\Baitap6.cpp",
-              "RelativeDocumentMoniker": "Baitap6\\Baitap6.cpp",
-              "ToolTip": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap6\\Baitap6.cpp",
-              "RelativeToolTip": "Baitap6\\Baitap6.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "Baitap7.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week01\\Baitap7\\Baitap7.cpp",
+              "RelativeDocumentMoniker": "Baitap7\\Baitap7.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week01\\Baitap7\\Baitap7.cpp",
+              "RelativeToolTip": "Baitap7\\Baitap7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-11T01:25:44.696Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Baitap4.cpp",
-              "DocumentMoniker": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap4\\Baitap4.cpp",
-              "RelativeDocumentMoniker": "Baitap4\\Baitap4.cpp",
-              "ToolTip": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap4\\Baitap4.cpp",
-              "RelativeToolTip": "Baitap4\\Baitap4.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T14:35:22.107Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Baitap8.cpp",
-              "DocumentMoniker": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap8\\Baitap8.cpp",
-              "RelativeDocumentMoniker": "Baitap8\\Baitap8.cpp",
-              "ToolTip": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap8\\Baitap8.cpp",
-              "RelativeToolTip": "Baitap8\\Baitap8.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-11T01:56:25.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T14:09:18.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Baitap7.cpp",
-              "DocumentMoniker": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap7\\Baitap7.cpp",
-              "RelativeDocumentMoniker": "Baitap7\\Baitap7.cpp",
-              "ToolTip": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap7\\Baitap7.cpp",
-              "RelativeToolTip": "Baitap7\\Baitap7.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-11T01:50:35.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Baitap5.cpp",
-              "DocumentMoniker": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap5\\Baitap5.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week01\\Baitap5\\Baitap5.cpp",
               "RelativeDocumentMoniker": "Baitap5\\Baitap5.cpp",
-              "ToolTip": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap5\\Baitap5.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week01\\Baitap5\\Baitap5.cpp",
               "RelativeToolTip": "Baitap5\\Baitap5.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-10T15:32:51.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Baitap3.cpp",
-              "DocumentMoniker": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap3\\Baitap3.cpp",
-              "RelativeDocumentMoniker": "Baitap3\\Baitap3.cpp",
-              "ToolTip": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap3\\Baitap3.cpp",
-              "RelativeToolTip": "Baitap3\\Baitap3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T14:12:29.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Baitap2.cpp",
-              "DocumentMoniker": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap2\\Baitap2.cpp",
-              "RelativeDocumentMoniker": "Baitap2\\Baitap2.cpp",
-              "ToolTip": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap2\\Baitap2.cpp",
-              "RelativeToolTip": "Baitap2\\Baitap2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T12:17:53.487Z"
+              "WhenOpened": "2024-10-17T14:08:49.997Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Baitap1.cpp",
-              "DocumentMoniker": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap1\\Baitap1.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week01\\Baitap1\\Baitap1.cpp",
               "RelativeDocumentMoniker": "Baitap1\\Baitap1.cpp",
-              "ToolTip": "D:\\HCMUS\\N2K1 _ NMLTB\\Introduction-To-Programming\\Week01\\Baitap1\\Baitap1.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week01\\Baitap1\\Baitap1.cpp",
               "RelativeToolTip": "Baitap1\\Baitap1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T12:17:18.281Z"
+              "WhenOpened": "2024-10-17T14:07:00.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Baitap4.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week01\\Baitap4\\Baitap4.cpp",
+              "RelativeDocumentMoniker": "Baitap4\\Baitap4.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week01\\Baitap4\\Baitap4.cpp",
+              "RelativeToolTip": "Baitap4\\Baitap4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T14:08:30.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Baitap3.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week01\\Baitap3\\Baitap3.cpp",
+              "RelativeDocumentMoniker": "Baitap3\\Baitap3.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week01\\Baitap3\\Baitap3.cpp",
+              "RelativeToolTip": "Baitap3\\Baitap3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T14:08:18.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Baitap2.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week01\\Baitap2\\Baitap2.cpp",
+              "RelativeDocumentMoniker": "Baitap2\\Baitap2.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week01\\Baitap2\\Baitap2.cpp",
+              "RelativeToolTip": "Baitap2\\Baitap2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T14:08:00.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baitap8.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week01\\Baitap8\\Baitap8.cpp",
+              "RelativeDocumentMoniker": "Baitap8\\Baitap8.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week01\\Baitap8\\Baitap8.cpp",
+              "RelativeToolTip": "Baitap8\\Baitap8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T14:09:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Baitap6.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week01\\Baitap6\\Baitap6.cpp",
+              "RelativeDocumentMoniker": "Baitap6\\Baitap6.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week01\\Baitap6\\Baitap6.cpp",
+              "RelativeToolTip": "Baitap6\\Baitap6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T14:09:07.11Z"
             }
           ]
         }

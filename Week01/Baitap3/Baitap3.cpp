@@ -1,15 +1,20 @@
-// Baitap3.cpp : Input an integer amount of money N in dong, and convert it to see how many banknotes of 10 dong, 5 dong, 2 dong, and 1 dong can be obtained. Assume to prioritize larger denominations first.
+// Baitap3.cpp :
+// Input an integer amount of money N in dong
+// Convert it to see how many banknotes of 10 dong, 5 dong, 2 dong, and 1 dong can be obtained.
+// Assume to prioritize larger denominations first.
 
 #include <iostream>
 
 using namespace std;
 
-int main()
-{
+int main() {
     cout << "Ex3\n";
-    cout << "Input the amount of money: ";
+
     int N;
-    cin >> N;
+    do {
+        cout << "Input the amount of money (non-negative integer): ";
+        cin >> N;
+    } while (N < 0);
 
     cout << "10 dong: " << N / 10 << endl;
     N = N - N / 10 * 10;

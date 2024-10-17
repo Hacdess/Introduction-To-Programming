@@ -1,16 +1,19 @@
-// Baitap4.cpp : Input a real x, calculate and print the values y1 = x / 3 and y2 = x / 7, rounding them to 2 decimal places.
+// Baitap4.cpp :
+// Input a real x, calculate and print the values y1 = x / 3 and y2 = x / 7,
+// rounding them to 2 decimal places.
 
 #include <iostream>
 
 using namespace std;
 
-static void roundingTo2DecimalPlace(double& x)
-{
-    x = double(int(x * 100 + 0.5)) / 100;
+void roundingTo2DecimalPlace(double& x) {
+    if (x >= 0)
+        x = double(int(x * 100 + 0.5)) / 100;
+    else
+        x = double(int(x * 100 - 0.5)) / 100;
 }
 
-int main()
-{
+int main() {
     cout << "Ex 4\n";
     cout << "Input a real x: ";
     double x;

@@ -1,17 +1,22 @@
-// Baitap7.cpp : Input a positive integer n and a real number x. Calculate and print the value of the following expression: f(X) = (x^2 + x + 1)^n + (x^2 - x + 1)^n.
+// Baitap7.cpp :
+// Input a positive integer n and a real number x.
+// Calculate and print the value of the following expression:
+// f(X) = (x^2 + x + 1)^n + (x^2 - x + 1)^n.
 
 #include <iostream>
 #include <cmath>
 
 using namespace std;
 
-int main()
-{
+int main() {
     cout << "Ex 7\n";
 
     int n;
-    cout << "Input a positive integer: ";
-    cin >> n;
+    do {
+        cout << "Input a positive integer n: ";
+        cin >> n;
+    } while (n <= 0);
+
 
     double x;
     cout << "Input a real number x: ";
