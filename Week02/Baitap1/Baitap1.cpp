@@ -3,10 +3,10 @@
 using namespace std;
 
 int main() {
-    cout << "Exercise 1\n";
+    cout << "Bai tap 1\n";
 
     double a, b, c, d;
-    cout << "Input 4 real numbers: ";
+    cout << "Nhap vao 4 so thuc: ";
     cin >> a >> b >> c >> d;
 
     double max1, min1, max2, min2;
@@ -27,8 +27,8 @@ int main() {
         min2 = c;
     }
 
-    cout << "Max is: " << ((max1 > max2) ? max1 : max2) << endl;
-    cout << "Min is: " << ((min1 < min2) ? min1 : min2);
+    cout << "So lon nhat: " << ((max1 > max2) ? max1 : max2) << endl;
+    cout << "So nho nhat: " << ((min1 < min2) ? min1 : min2);
 
     return 0;
 }
