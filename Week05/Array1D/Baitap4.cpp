@@ -10,7 +10,7 @@ void NhapMangSoNguyen(int MangSoNguyen[], int n)
 
 void InMangSoNguyen(int MangSoNguyen[], int n)
 {
-	cout << "Mamg so nguyen: ";
+	cout << "Mang so nguyen: ";
 	for (int i = 0; i < n; ++i)
 		cout << MangSoNguyen[i] << ' ';
 }
@@ -20,7 +20,7 @@ void GiaiBai4a(int MangSoNguyen[], int n, int X)
 	cout << "Cau 4a:\n";
 	cout << "Cac phan tu la uoc cua " << X << ":\n";
 	for (int i = 0; i < n; ++i)
-		if (X % MangSoNguyen[i] == 0)
+		if (MangSoNguyen[i] != 0 && X % MangSoNguyen[i] == 0)
 			cout << "Gia tri: " << MangSoNguyen[i] << " - vi tri: " << i << endl;
 }
 
@@ -38,7 +38,7 @@ void GiaiBai4b(int MangSoNguyen[], int n, int X)
 	int dem = 0;
 	for (int i = n - 1; i >= 0; --i)
 	{
-		if (X % MangSoNguyen[i] == 0)
+		if (MangSoNguyen[i] != 0 && X % MangSoNguyen[i] == 0)
 		{
 			++dem;
 			TraoDoiSo(MangSoNguyen[i], MangSoNguyen[n - dem]);
@@ -66,7 +66,7 @@ void GiaiBai4()
 
 	do
 	{
-		cout << "Nhap so nguyen n (1 <= n <= 10000): ";
+		cout << "Nhap so nguyen n la so phan tu (1 <= n <= 10000): ";
 		cin >> n;
 	} while (n < 1 || n > 10000);
 

@@ -18,6 +18,34 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Baitap1.h" />
+    <ClInclude Include="Baitap10.h" />
+    <ClInclude Include="Baitap11.h" />
+    <ClInclude Include="Baitap2.h" />
+    <ClInclude Include="Baitap3.h" />
+    <ClInclude Include="Baitap4.h" />
+    <ClInclude Include="Baitap5.h" />
+    <ClInclude Include="Baitap6.h" />
+    <ClInclude Include="Baitap7.h" />
+    <ClInclude Include="Baitap8.h" />
+    <ClInclude Include="Baitap9.h" />
+    <ClInclude Include="NhapXuat.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="23127075.cpp" />
+    <ClCompile Include="Baitap1.cpp" />
+    <ClCompile Include="Baitap10.cpp" />
+    <ClCompile Include="Baitap11.cpp" />
+    <ClCompile Include="Baitap2.cpp" />
+    <ClCompile Include="Baitap3.cpp" />
+    <ClCompile Include="Baitap4.cpp" />
+    <ClCompile Include="Baitap5.cpp" />
+    <ClCompile Include="Baitap6.cpp" />
+    <ClCompile Include="Baitap7.cpp" />
+    <ClCompile Include="Baitap8.cpp" />
+    <ClCompile Include="Baitap9.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,9 +154,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="Array2D.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

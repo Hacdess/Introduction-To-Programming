@@ -4,6 +4,9 @@
 #include "Baitap2.h"
 #include "Baitap3.h"
 #include "Baitap4.h"
+#include "Baitap5.h"
+#include "Baitap6.h"
+#include "Baitap7.h"
 
 int main()
 {
@@ -19,6 +22,15 @@ int main()
 	cout << endl;
 
 	GiaiBai4();
+	cout << endl;
+
+	GiaiBai5();
+	cout << endl;
+
+	GiaiBai6();
+	cout << endl;
+
+	GiaiBai7();
 	cout << endl;
 
 	return 0;

@@ -15,7 +15,78 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Array2D.cpp">
+    <ClInclude Include="Baitap1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Baitap11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NhapXuat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Baitap1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Baitap11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="23127075.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
