@@ -1,6 +1,8 @@
 #pragma once
 
 #include <iostream>
+#include <cstring>
+
 using namespace std;
 
-int FindMinPositiveArray2D(int arr[][100], int row, int col);
+void PrintWordPerLine(char str[]);

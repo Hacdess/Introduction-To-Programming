@@ -86,7 +86,10 @@
     <ClCompile Include="Baitap11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="23127075.cpp">
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NhapXuat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
