@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Introduction-To-Programming\\Week07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\PhanSo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:PhanSo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\PhanSo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:PhanSo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\Baitap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:Baitap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\MaTran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:MaTran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\MaTran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:MaTran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\Baitap1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:Baitap1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\Diem2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:Diem2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|D:\\Introduction-To-Programming\\Week07\\DayPhanSo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18864F16-8F7D-487B-B548-BA821794B0BF}|Week07.vcxproj|solutionrelative:DayPhanSo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhanSo.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\PhanSo.cpp",
+              "RelativeDocumentMoniker": "PhanSo.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\PhanSo.cpp",
+              "RelativeToolTip": "PhanSo.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T16:27:02.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaTran.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\MaTran.cpp",
+              "RelativeDocumentMoniker": "MaTran.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\MaTran.cpp",
+              "RelativeToolTip": "MaTran.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T16:19:25.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Diem2D.h",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\Diem2D.h",
+              "RelativeDocumentMoniker": "Diem2D.h",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\Diem2D.h",
+              "RelativeToolTip": "Diem2D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T16:15:56.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaTran.h",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\MaTran.h",
+              "RelativeDocumentMoniker": "MaTran.h",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\MaTran.h",
+              "RelativeToolTip": "MaTran.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T16:14:51.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Baitap1.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\Baitap1.cpp",
+              "RelativeDocumentMoniker": "Baitap1.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\Baitap1.cpp",
+              "RelativeToolTip": "Baitap1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T16:06:55.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Baitap1.h",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\Baitap1.h",
+              "RelativeDocumentMoniker": "Baitap1.h",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\Baitap1.h",
+              "RelativeToolTip": "Baitap1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T16:04:36.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhanSo.h",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\PhanSo.h",
+              "RelativeDocumentMoniker": "PhanSo.h",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\PhanSo.h",
+              "RelativeToolTip": "PhanSo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T15:57:05.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DayPhanSo.h",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\DayPhanSo.h",
+              "RelativeDocumentMoniker": "DayPhanSo.h",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\DayPhanSo.h",
+              "RelativeToolTip": "DayPhanSo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T15:57:50.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Introduction-To-Programming\\Week07\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Introduction-To-Programming\\Week07\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T15:53:32.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
