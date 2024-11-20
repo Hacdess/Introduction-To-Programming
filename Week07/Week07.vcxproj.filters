@@ -27,12 +27,12 @@
     <ClCompile Include="PhanSo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Diem2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PhanSo.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="DayPhanSo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Diem2D.h">

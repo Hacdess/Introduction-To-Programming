@@ -1,37 +1,38 @@
 #include "MaTran.h"
 
-bool DocMaTran(string filename, int matrix[][MAX], int& row, int& col)
+// Bai 2
+bool DocMaTran(string TenFile, int MaTran[][MAX], int& hang, int& cot)
 {
-    ifstream fin(filename.c_str());
+    ifstream fin(TenFile.c_str());
     if (!fin)
     {
-        cout << "Khong mo duoc file " << filename << endl;
+        cout << "Khong mo duoc file " << TenFile << endl;
         return false;
     }
 
-    fin >> row >> col;
+    fin >> hang >> cot;
 
-    for (int i = 0; i < row; ++i)
-        for (int j = 0; j < col; ++j)
-            fin >> matrix[i][j];
+    for (int i = 0; i < hang; ++i)
+        for (int j = 0; j < cot; ++j)
+            fin >> MaTran[i][j];
 
     fin.close();
     return true;
 }
-
-bool XuatMaTran(string filename, int matrix[][MAX], int row, int col)
+// Bai 3
+bool XuatMaTran(string TenFile, int MaTran[][MAX], int hang, int cot)
 {
-    ofstream fout(filename.c_str(), ios::app);
+    ofstream fout(TenFile.c_str(), ios::app);
     if (!fout)
     {
-        cout << "Khong mo duoc file " << filename << endl;
+        cout << "Khong mo duoc file " << TenFile << endl;
         return false;
     }
 
-    for (int i = 0; i < row; ++i)
+    for (int i = 0; i < hang; ++i)
     {
-        for (int j = 0; j < col; ++j)
-            fout << matrix[i][j] << ' ';
+        for (int j = 0; j < cot; ++j)
+            fout << MaTran[i][j] << ' ';
         fout << endl;
     }
     fout << endl;

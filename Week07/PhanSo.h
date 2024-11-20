@@ -13,9 +13,12 @@ struct PhanSo
 	int MauSo;
 
 	void RutGonPhanSo();
-	bool DocPhanSo(string filename);
+
+	// Bai 4
+	bool DocPhanSo(string TenFile);
 	void Xuat(ofstream& fout);
-	bool XuatPhanSo(string filename);
+	// Bai 13
+	bool XuatPhanSo(string TenFile);
 };
 
 struct DayPhanSo
@@ -23,16 +26,20 @@ struct DayPhanSo
 	PhanSo day[100];
 	int n;
 
-	bool DocDayPhanSo(string filename);
-	bool XuatDayPhanSo(string filename);
+	// Bai 5
+	bool DocDayPhanSo(string TenFile);
+	// Bai 14
+	bool XuatDayPhanSo(string TenFile);
 };
 
 
 struct MaTranPhanSo
 {
 	PhanSo MaTran[10][10];
-	int row, col;
+	int hang, cot;
 
-	bool DocMaTranPhanSo(string filename);
-	bool XuatMaTranPhanSo(string filename);
+	// Bai 10
+	bool DocMaTranPhanSo(string TenFile);
+	// Bai 15
+	bool XuatMaTranPhanSo(string TenFile);
 };

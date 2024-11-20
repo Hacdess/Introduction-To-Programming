@@ -1,26 +1,41 @@
 #pragma once
 
 #include <iostream>
-#include <cmath>
-using namespace  std;
+#include <fstream>
 
-const double epsilon = 1e-9;
+using namespace  std;
 
 struct Diem2D
 {
 	float x;
 	float y;
+
+	// Bai 6
+	bool DocDiem2D(string TenFile);
+	// Bai 16
+	bool XuatDiem2D(string TenFile);
 };
 
-// So sanh dua tren sai so epsilon
-short SoSanh2SoThuc(const float& a, const float& b);
+struct DayDiem2D
+{
+	Diem2D day[100];
+	int n;
 
-void NhapDiem2D(Diem2D& diem);
-void XuatDiem2D(const Diem2D& diem);
-float TinhKhoangCach(const Diem2D& A, const Diem2D& B);
-bool LaTamGiac(const Diem2D& A, const Diem2D& B, const Diem2D& C);
-float TinhChuViTamGiac(const Diem2D& A, const Diem2D& B, const Diem2D& C);
-float TinhDienTichTamGiac(const Diem2D& A, const Diem2D& B, const Diem2D& C);
-bool KiemTraDiemTrongTamGiac(const Diem2D& A, const Diem2D& B, const Diem2D& C, const Diem2D& D);
+	// Bai 7
+	bool DocDayDiem2D(string TenFile);
+	// Bai 117
+	bool XuatDayDiem2D(string TenFile);
+};
 
-void GiaiBai3();
+struct MaTranDiem2D
+{
+	Diem2D maTran[100][100];
+	int hang;
+	int cot;
+
+	// Bai 11
+	bool DocMaTranDiem2D(string TenFile);
+
+	// Bai 18
+	bool XuatMaTranDiem2D(string TenFile);
+};
