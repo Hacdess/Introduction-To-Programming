@@ -30,6 +30,9 @@
     <ClCompile Include="Diem2D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DuongTron2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PhanSo.h">
@@ -44,5 +47,43 @@
     <ClInclude Include="MaTran.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DuongTron2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocMaTran.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocDayPhanSo.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocPhanSo.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocMaTranPhanSo.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocDiem2D.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocDayDiem2D.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocMaTranDiem2D.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocDayDuongTron2D.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocDuongTron2D.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DocMaTranDuongTron2D.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

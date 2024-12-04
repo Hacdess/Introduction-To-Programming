@@ -13,7 +13,7 @@ void PhanSo::RutGonPhanSo()
 	try
 	{
 		if (MauSo == 0)
-			thhang exception{ "Mau so khong duoc bang 0" };
+			throw exception{ "Mau so khong duoc bang 0" };
 
 		int ucln = TimUCLN(TuSo, MauSo);
 
@@ -45,7 +45,9 @@ bool PhanSo::DocPhanSo(string TenFile)
 		return false;
 	}
 
-	fin >> TuSo >> MauSo;
+	fin >> TuSo;
+	fin.ignore();
+	fin >> MauSo;
 	RutGonPhanSo();
 
 	fin.close();
@@ -65,7 +67,7 @@ void PhanSo::Xuat(ofstream& fout)
 // Bai 13
 bool PhanSo::XuatPhanSo(string TenFile)
 {
-	ofstream fout(TenFile.c_str());
+	ofstream fout(TenFile.c_str(), ios::app);
 	if (!fout)
 	{
 		cout << "Khong mo duoc file " << TenFile << endl;
@@ -92,7 +94,10 @@ bool DayPhanSo::DocDayPhanSo(string TenFile)
 	fin >> n;
 	for (int i = 0; i < n; ++i)
 	{
-		fin >> day[i].TuSo >> day[i].MauSo;
+		fin >> day[i].TuSo;
+		fin.ignore();
+		fin >> day[i].MauSo;
+		fin.ignore();
 		day[i].RutGonPhanSo();
 	}
 
@@ -103,7 +108,7 @@ bool DayPhanSo::DocDayPhanSo(string TenFile)
 // Bai 14
 bool DayPhanSo::XuatDayPhanSo(string TenFile)
 {
-	ofstream fout(TenFile.c_str());
+	ofstream fout(TenFile.c_str(), ios::app);
 	if (!fout)
 	{
 		cout << "Khong mo duoc file " << TenFile << endl;
@@ -133,12 +138,16 @@ bool MaTranPhanSo::DocMaTranPhanSo(string TenFile)
 	}
 
 	fin >> hang >> cot;
+	fin.ignore();
 
 	for (int i = 0; i < hang; ++i)
 	{
 		for (int j = 0; j < cot; ++j)
 		{
-			fin >> MaTran[i][j].TuSo >> MaTran[i][j].MauSo;
+			fin >> MaTran[i][j].TuSo;
+			fin.ignore();
+			fin >> MaTran[i][j].MauSo;
+			fin.ignore();
 			MaTran[i][j].RutGonPhanSo();
 		}
 	}
@@ -150,14 +159,12 @@ bool MaTranPhanSo::DocMaTranPhanSo(string TenFile)
 // Bai 15
 bool MaTranPhanSo::XuatMaTranPhanSo(string TenFile)
 {
-	ofstream fout(TenFile.c_str());
+	ofstream fout(TenFile.c_str(), ios::app);
 	if (!fout)
 	{
 		cout << "Khong mo duoc file " << TenFile << endl;
 		return false;
 	}
-
-	fout << hang << ' ' << cot << '\n';
 
 	for (int i = 0; i < hang; ++i)
 	{

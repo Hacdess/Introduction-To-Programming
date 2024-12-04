@@ -129,15 +129,30 @@
   <ItemGroup>
     <ClCompile Include="Baitap1.cpp" />
     <ClCompile Include="Diem2D.cpp" />
+    <ClCompile Include="DuongTron2D.cpp" />
     <ClCompile Include="PhanSo.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MaTran.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DuongTron2D.h" />
     <ClInclude Include="MaTran.h" />
     <ClInclude Include="PhanSo.h" />
     <ClInclude Include="Diem2D.h" />
     <ClInclude Include="Baitap1.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="DocDayDuongTron2D.txt" />
+    <Text Include="DocDayDiem2D.txt" />
+    <Text Include="DocDayPhanSo.txt" />
+    <Text Include="DocDiem2D.txt" />
+    <Text Include="DocDuongTron2D.txt" />
+    <Text Include="DocMaTran.txt" />
+    <Text Include="DocMaTranDiem2D.txt" />
+    <Text Include="DocMaTranDuongTron2D.txt" />
+    <Text Include="DocMaTranPhanSo.txt" />
+    <Text Include="DocPhanSo.txt" />
+    <Text Include="input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

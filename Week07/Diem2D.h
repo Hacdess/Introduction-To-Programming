@@ -29,7 +29,7 @@ struct DayDiem2D
 
 struct MaTranDiem2D
 {
-	Diem2D maTran[100][100];
+	Diem2D MaTran[100][100];
 	int hang;
 	int cot;
 
